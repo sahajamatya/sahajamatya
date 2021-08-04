@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you.
+# Hi! Nice to see you.
 
 <p>Welcome to my page!</p>
 <p>I'm Sahaj, a full stack developer specializing in the MERN stack based in the DFW Metroplex.</p>
