@@ -3,7 +3,7 @@
 <p>Welcome to my page!</p>
 <p>I'm Sahaj, a full stack developer specializing in the MERN stack based in the DFW Metroplex.</p>
 
-## Tools in my arsenal:
+## My Tools:
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
