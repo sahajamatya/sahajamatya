@@ -4,7 +4,7 @@
 <p>I'm Sahaj, a full stack developer specializing in the MERN stack based in the DFW Metroplex.</p>
 
 ## My Tools:
-
+<p>
 <img src = "https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" height="20"/>
 <img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="20"/>
 <img src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="20"/>
@@ -38,3 +38,4 @@
 
 <img src = "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="20"/>
 <img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="20"/>
+</p>
