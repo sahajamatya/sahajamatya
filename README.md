@@ -1,7 +1,7 @@
 # Hi! Nice to see you.
 
 <p>Welcome to my page!</p>
-<p>I'm Sahaj, a Full Stack Developer specializing in the MERN stack based in the DFW Metroplex. You can view some of my projects below.</p>
+<p>I'm Sahaj, a Software Engineer based in the Greater Seattle Area. You can view some of my projects below.</p>
 
 ## <img src= "https://user-images.githubusercontent.com/19261513/128235794-989956b9-8f49-4d9f-b437-f1fca8447306.png" height="20"/> My Tools:
 <p>
